@@ -1,0 +1,182 @@
+{
+  "ThemeId": "9eb51a7c-0538-40b7-b05c-aedf88af534f",
+  "ThemeName": "i18n:theme_name",
+  "Description": "i18n:theme_description",
+  "ThemeAuthor": "dragonish",
+  "Version": "1.0.0",
+  "MinWoxVersion": "2.4.5",
+  "SchemaVersion": 2,
+  "ActionContainerBackgroundColor": "transparent",
+  "ActionContainerBorderColor": "transparent",
+  "ActionContainerBorderRadius": 18,
+  "ActionContainerBorderWidth": 0,
+  "ActionContainerDividerColor": "#E8DCC0",
+  "ActionContainerHeaderFontColor": "#1A1A1A",
+  "ActionContainerPaddingBottom": 20,
+  "ActionContainerPaddingLeft": 20,
+  "ActionContainerPaddingRight": 20,
+  "ActionContainerPaddingTop": 20,
+  "ActionItemActiveBackgroundColor": "#7A3E00",
+  "ActionItemActiveFontColor": "#FFFFFF",
+  "ActionItemActiveHotkeyBackgroundColor": "transparent",
+  "ActionItemActiveHotkeyBorderColor": "#FFF3E0",
+  "ActionItemActiveHotkeyFontColor": "#FFFFFF",
+  "ActionItemBorderRadius": 7,
+  "ActionItemFontColor": "#1A1A1A",
+  "ActionItemHotkeyBorderColor": "#C9B896",
+  "ActionItemHotkeyFontColor": "#6B6257",
+  "ActionQueryBoxBackgroundColor": "#FBD9E8",
+  "ActionQueryBoxBorderRadius": 8,
+  "ActionQueryBoxFontColor": "#1A1A1A",
+  "AppBackgroundColor": "transparent",
+  "AppBorderColor": "transparent",
+  "AppBorderRadius": 14,
+  "AppBorderWidth": 0,
+  "AppContentBackgroundColor": "#F2EDE0",
+  "AppContentBorderRadius": 0,
+  "AppPaddingBottom": 4,
+  "AppPaddingLeft": 12,
+  "AppPaddingRight": 12,
+  "AppPaddingTop": 10,
+  "BaseAccentColor": "#E88A1A",
+  "BaseBackgroundColor": "#F5EFE0",
+  "BaseTextColor": "#1A1A1A",
+  "GlanceFontColor": "#6B6257",
+  "GlanceIconColor": "#6B6257",
+  "OverlayBackgroundColor": "#F2EDE0",
+  "OverlayFontColor": "#1A1A1A",
+  "PreviewBackgroundColor": "#F2EDE0",
+  "PreviewBorderColor": "#E8DCC0",
+  "PreviewBorderRadius": 12,
+  "PreviewFontColor": "#1A1A1A",
+  "PreviewPropertyContentColor": "#1A1A1A",
+  "PreviewPropertyTitleColor": "#6B6257",
+  "PreviewSplitLineColor": "#E8DCC0",
+  "PreviewTagBackgroundColor": "#FDE8F1",
+  "PreviewTagBorderColor": "#F2C14E",
+  "PreviewTagBorderRadius": 6,
+  "PreviewTagFontColor": "#6B4E12",
+  "QueryBoxBackgroundColor": "#FBD9E8",
+  "QueryBoxBorderBottomColor": "#FD80B8",
+  "QueryBoxBorderBottomWidth": 1,
+  "QueryBoxBorderRadius": 12,
+  "QueryBoxCursorColor": "#C92A7A",
+  "QueryBoxFontColor": "#1A1A1A",
+  "QueryBoxTextSelectionBackgroundColor": "#E85D9E",
+  "QueryBoxTextSelectionColor": "#FFFFFF",
+  "RefinementButtonActiveBackgroundColor": "#7A3E00",
+  "RefinementButtonActiveBorderColor": "#7A3E00",
+  "RefinementButtonActiveFontColor": "#FFFFFF",
+  "RefinementButtonActiveHoverBackgroundColor": "#5C2E00",
+  "RefinementButtonActiveIconColor": "#FFFFFF",
+  "RefinementButtonBackgroundColor": "#FFF1D6",
+  "RefinementButtonBorderColor": "#D8B350",
+  "RefinementButtonFontColor": "#1A1A1A",
+  "RefinementButtonHoverBackgroundColor": "#FFE1A8",
+  "RefinementButtonIconColor": "#1A1A1A",
+  "ResultContainerPaddingBottom": 8,
+  "ResultContainerPaddingTop": 8,
+  "ResultItemActiveBackgroundColor": "#7A3E00",
+  "ResultItemActiveSubTitleColor": "#FFF3E0",
+  "ResultItemActiveTailTextColor": "#FFFFFF",
+  "ResultItemActiveTitleColor": "#FFFFFF",
+  "ResultItemBorderRadius": 9,
+  "ResultItemHoverBackgroundColor": "#FFF1D6",
+  "ResultItemPaddingLeft": 10,
+  "ResultItemPaddingRight": 10,
+  "ResultItemSubTitleColor": "#6B6257",
+  "ResultItemTailTextColor": "#6B6257",
+  "ResultItemTitleColor": "#1A1A1A",
+  "ScrollbarThumbActiveColor": "#F08A1D",
+  "ScrollbarThumbColor": "#C68A2E",
+  "ScrollbarThumbHoverColor": "#A8761F",
+  "ToolbarBackgroundColor": "#FFC330",
+  "ToolbarBorderColor": "#E8A317",
+  "ToolbarBorderWidth": 1,
+  "ToolbarFontColor": "#1A1A1A",
+  "ToolbarHotkeyBackgroundColor": "#FFF8E3",
+  "ToolbarHotkeyBorderColor": "#D8B350",
+  "ToolbarHotkeyFontColor": "#1A1A1A",
+  "ToolbarPrimaryFontColor": "#1A1A1A",
+  "ToolbarPrimaryHotkeyBackgroundColor": "#7A3E00",
+  "ToolbarPrimaryHotkeyBorderColor": "#7A3E00",
+  "ToolbarPrimaryHotkeyFontColor": "#FFFFFF",
+  "Surfaces": {
+    "ActionContainer": {
+      "Background": {
+        "Insets": {
+          "Bottom": 12,
+          "Left": 12,
+          "Right": 12,
+          "Top": 12
+        },
+        "Mode": "nineSlice",
+        "Slice": {
+          "Bottom": 24,
+          "Left": 24,
+          "Right": 24,
+          "Top": 24
+        },
+        "Source": "assets/action-background.png"
+      },
+      "Frame": {
+        "Insets": {
+          "Bottom": 12,
+          "Left": 12,
+          "Right": 12,
+          "Top": 12
+        },
+        "Mode": "nineSlice",
+        "Repeat": {
+          "X": "stretch",
+          "Y": "stretch"
+        },
+        "Slice": {
+          "Bottom": 250,
+          "Left": 250,
+          "Right": 250,
+          "Top": 250
+        },
+        "Source": "assets/oil-frame.png"
+      }
+    },
+    "App": {
+      "ContentInsets": {
+        "Bottom": 15,
+        "Left": 15,
+        "Right": 15,
+        "Top": 15
+      },
+      "Frame": {
+        "Insets": {
+          "Bottom": 20,
+          "Left": 20,
+          "Right": 20,
+          "Top": 20
+        },
+        "Mode": "nineSlice",
+        "Repeat": {
+          "X": "stretch",
+          "Y": "stretch"
+        },
+        "Slice": {
+          "Bottom": 250,
+          "Left": 250,
+          "Right": 250,
+          "Top": 250
+        },
+        "Source": "assets/oil-frame.png"
+      }
+    }
+  },
+  "I18n": {
+    "en_US": {
+      "theme_description": "A Western oil-painting frame in sage, ochre and sky blue brushwork, around a paper-white workspace with a gold toolbar and orange selection.",
+      "theme_name": "Western Oil Painting"
+    },
+    "zh_CN": {
+      "theme_description": "鼠尾草绿、赭金与天青笔触的油画外框，配画布白内容区、金色工具栏与橙色选中。",
+      "theme_name": "西方油画"
+    }
+  }
+}

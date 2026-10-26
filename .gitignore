@@ -1,0 +1,7 @@
+*.md
+*.json
+*.wox-theme
+*.py
+
+!README.md
+!theme.json
