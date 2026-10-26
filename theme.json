@@ -3,7 +3,7 @@
   "ThemeName": "i18n:theme_name",
   "Description": "i18n:theme_description",
   "ThemeAuthor": "dragonish",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "MinWoxVersion": "2.4.5",
   "SchemaVersion": 2,
   "ActionContainerBackgroundColor": "transparent",
