@@ -30,7 +30,7 @@
   "ActionQueryBoxFontColor": "#1A1A1A",
   "AppBackgroundColor": "transparent",
   "AppBorderColor": "transparent",
-  "AppBorderRadius": 14,
+  "AppBorderRadius": 0,
   "AppBorderWidth": 0,
   "AppContentBackgroundColor": "#F2EDE0",
   "AppContentBorderRadius": 0,
